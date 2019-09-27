@@ -1,1 +1,24 @@
+Team Number: 202-4
 
+Team Name: Cereal Killers
+
+Team Members: Aanvi Guliani, Beka Admasu, Jaci Stickrod, Jacob Reynolds, Jaskrit Singh, Vienna Wong
+
+Application Name: Coin Counter
+
+Application Description: The user takes an image, on an app, of coins laid out and the app returns how much is there in total. Other features we are aiming to implement are different currencies, conversion to local currency, and description of the value of the coins. 
+
+Vision Statement: To help users efficiently count their currency.
+
+Version Control: 
+Team meeting logs https://github.com/JazKarit/meeting_logs
+Milestone submissions https://github.com/JazKarit/milestones 
+All project code/components https://github.com/JazKarit/CSCI3308_Project 
+
+Development Method: Agile/Scrum
+
+Communication Plan: Our team currently has a groupme chat set up for organizing meetings, and keeping up with milestones. We plan to meet weekly on Friday from 1 to 3. Otherwise, we will use Github to ask questions and clarify details with our teammates. 
+
+Proposed Architecture Plan: In the backend of the app we will have image recognition technology written in python with OpenCV. We also expect to have information about different currencies supporting our various features in the backend. If we include a login feature we will have a database in SQL. In the frontend we are going to use Swift for (IOS) and try to make the same app in Android Studio. To connect the two we will use Nodejs. 
+
+Meeting Plan: We are meeting face to face on Fridays from 1 to 3 in the C4C.
